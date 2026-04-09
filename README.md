@@ -200,4 +200,4 @@ MIT License — sinta-se livre para usar e adaptar.
 
 ---
 
-> Desenvolvido com ❤️ usando n8n + OpenAI + WhatsApp
+> Desenvolvido usando n8n + OpenAI + WhatsApp
