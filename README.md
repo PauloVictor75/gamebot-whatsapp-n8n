@@ -7,10 +7,10 @@
 ## 📸 Preview
 
 ### Fluxo no n8n
-![Workflow](./assets/workflow.png)
+![Workflow](./assets/n8n.png)
 
 ### Conversa real no WhatsApp
-![WhatsApp](./assets/whatsapp-preview.png)
+![WhatsApp](./assets/whatsapp.png)
 
 ---
 
